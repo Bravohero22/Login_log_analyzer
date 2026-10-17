@@ -1,0 +1,12 @@
+{
+    "brute_force_suspects": [
+        "203.0.113.7"
+    ],
+    "suspicious_logins": [
+        {
+            "username": "jdoe",
+            "ip": "8.8.4.4"
+        }
+    ],
+    "broken_rows_skipped": 1
+}
